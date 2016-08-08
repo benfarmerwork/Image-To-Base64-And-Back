@@ -1,0 +1,15 @@
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\bin\Debug\Image to fromBase 64 Conversion.exe
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\bin\Debug\Image to fromBase 64 Conversion.pdb
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image_to_fromBase_64_Conversion.Form1.resources
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image_to_fromBase_64_Conversion.Properties.Resources.resources
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.csproj.GenerateResource.Cache
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.exe
+c:\users\sba stuff\documents\visual studio 2010\Projects\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.pdb
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.pdb
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\bin\Debug\Image to fromBase 64 Conversion.exe
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\bin\Debug\Image to fromBase 64 Conversion.pdb
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.csprojResolveAssemblyReference.cache
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image_to_fromBase_64_Conversion.Form1.resources
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image_to_fromBase_64_Conversion.Properties.Resources.resources
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.csproj.GenerateResource.Cache
+C:\Users\Kathy\Desktop\Image to fromBase 64 Conversion\Image to fromBase 64 Conversion\obj\x86\Debug\Image to fromBase 64 Conversion.exe
